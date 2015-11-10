@@ -1,3 +1,4 @@
+!!org.obiba.opal.core.domain.taxonomy.Taxonomy
 "name": "Mlstr_study"
 "title":
   "en": "Study"
@@ -213,7 +214,7 @@
       "fr": "Femmes seulement"
     "description": {}
     "keywords": {}
-- "name": "selectionCriteriaCriteria"
+- "name": "populations-selectionCriteria-criteria"
   "title":
     "en": "Selection criteria"
     "fr": "Critères de sélection"
@@ -226,18 +227,21 @@
       "fr": "Femmes enceintes"
     "description": {}
     "keywords": {}
+    "terms": []
   - "name": "newborn"
     "title":
       "en": "Newborn"
       "fr": "Nouveaux-nés"
     "description": {}
     "keywords": {}
+    "terms": []
   - "name": "twin"
     "title":
       "en": "Twin"
       "fr": "Jumeaux"
     "description": {}
     "keywords": {}
+    "terms": []
 - "name": "populations-dataCollectionEvents-dataSources"
   "title":
     "en": "Data collection sources"
