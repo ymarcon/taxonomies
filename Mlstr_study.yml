@@ -1,0 +1,325 @@
+"name": "Mlstr_study"
+"title":
+  "en": "Study"
+  "fr": "Études"
+"description":
+  "en": "Study classification developed by Maelstrom"
+  "fr": "Classification des études développée par Maelstrom"
+"keywords": {}
+"vocabularies":
+- "name": "methods-designs"
+  "title":
+    "en": "Study designs"
+    "fr": "Définitions d'étude"
+  "description": {}
+  "keywords": {}
+  "terms":
+  - "name": "cohort_study"
+    "title":
+      "en": "Cohort study"
+      "fr": "Étude de cohorte"
+    "description": {}
+    "keywords": {}
+  - "name": "case_control"
+    "title":
+      "en": "Case control"
+      "fr": "Cas-témoins"
+    "description": {}
+    "keywords": {}
+  - "name": "case_only"
+    "title":
+      "en": "Case only"
+      "fr": "Cas"
+    "description": {}
+    "keywords": {}
+  - "name": "clinical_trial"
+    "title":
+      "en": "Clinical trial"
+      "fr": "Essai clinique"
+    "description": {}
+    "keywords": {}
+  - "name": "cross_sectional"
+    "title":
+      "en": "Cross sectional"
+      "fr": "Analyse transversale"
+    "description": {}
+    "keywords": {}
+  - "name": "other"
+    "title":
+      "en": "Other"
+      "fr": "Autre"
+    "description": {}
+    "keywords": {}
+- "name": "methods-recruitments"
+  "title":
+    "en": "Recruitment target"
+    "fr": "Cible de recrutement"
+  "description": {}
+  "keywords": {}
+  "terms":
+  - "name": "individuals"
+    "title":
+      "en": "Individuals"
+      "fr": "Individus"
+    "description": {}
+    "keywords": {}
+  - "name": "families"
+    "title":
+      "en": "Families"
+      "fr": "Familles"
+    "description": {}
+    "keywords": {}
+  - "name": "other"
+    "title":
+      "en": "Other"
+      "fr": "Autre"
+    "description": {}
+    "keywords": {}
+- "name": "populations-recruitment-dataSources"
+  "title":
+    "en": "Sources of recruitment"
+    "fr": "Sources de recrutement"
+  "description": {}
+  "keywords": {}
+  "terms":
+  - "name": "general_population"
+    "title":
+      "en": "General population"
+      "fr": "Population générale"
+    "description": {}
+    "keywords": {}
+  - "name": "specific_population"
+    "title":
+      "en": "Specific population"
+      "fr": "Population spécifique"
+    "description": {}
+    "keywords": {}
+  - "name": "exist_studies"
+    "title":
+      "en": "Participants from existing studies"
+      "fr": "Participants provenant d'études existantes"
+    "description": {}
+    "keywords": {}
+  - "name": "other"
+    "title":
+      "en": "Other"
+      "fr": "Autre"
+    "description": {}
+    "keywords": {}
+- "name": "recruitmentGeneralPopulation"
+  "title":
+    "en": "General recruitment"
+    "fr": "Recrutement général"
+  "description": {}
+  "keywords": {}
+  "terms":
+  - "name": "volunteer"
+    "title":
+      "en": "Volunteer enrolment"
+      "fr": "Enrôlement volontaire"
+    "description": {}
+    "keywords": {}
+  - "name": "selected_samples"
+    "title":
+      "en": "Selected sample"
+      "fr": "Sous-échantillons"
+    "description": {}
+    "keywords": {}
+  - "name": "random"
+    "title":
+      "en": "Random digit dialing"
+      "fr": "Génération aléatoire de numéros"
+    "description": {}
+    "keywords": {}
+- "name": "recruitmentSpecificPopulation"
+  "title":
+    "en": "Specific recruitment"
+    "fr": "Recrutement spécifique"
+  "description": {}
+  "keywords": {}
+  "terms":
+  - "name": "clinic_patients"
+    "title":
+      "en": "Clinic patients"
+      "fr": "Patients d'une clinique"
+    "description": {}
+    "keywords": {}
+  - "name": "specific_association"
+    "title":
+      "en": "Members of specific association"
+      "fr": "Membres d'une association spécifique"
+    "description": {}
+    "keywords": {}
+  - "name": "other"
+    "title":
+      "en": "Other specific population"
+      "fr": "Autre population spécifique"
+    "description": {}
+    "keywords": {}
+- "name": "populations-selectionCriteria-gender"
+  "title":
+    "en": "Gender"
+    "fr": "Genre"
+  "description": {}
+  "keywords": {}
+  "terms":
+  - "name": "men"
+    "title":
+      "en": "Men only"
+      "fr": "Hommes seulement"
+    "description": {}
+    "keywords": {}
+  - "name": "women"
+    "title":
+      "en": "Women only"
+      "fr": "Femmes seulement"
+    "description": {}
+    "keywords": {}
+- "name": "selectionCriteriaCriteria"
+  "title":
+    "en": "Selection criteria"
+    "fr": "Critères de sélection"
+  "description": {}
+  "keywords": {}
+  "terms":
+  - "name": "gravidity"
+    "title":
+      "en": "Gravidity"
+      "fr": "Femmes enceintes"
+    "description": {}
+    "keywords": {}
+  - "name": "newborn"
+    "title":
+      "en": "Newborn"
+      "fr": "Nouveaux-nés"
+    "description": {}
+    "keywords": {}
+  - "name": "twin"
+    "title":
+      "en": "Twin"
+      "fr": "Jumeaux"
+    "description": {}
+    "keywords": {}
+- "name": "populations-dataCollectionEvents-dataSources"
+  "title":
+    "en": "Data collection sources"
+    "fr": "Source des données collectées"
+  "description": {}
+  "keywords": {}
+  "terms":
+  - "name": "questionnaires"
+    "title":
+      "en": "Questionnaires"
+      "fr": "Questionnaires"
+    "description": {}
+    "keywords": {}
+  - "name": "physical_measures"
+    "title":
+      "en": "Physical Measures"
+      "fr": "Mesures physiques"
+    "description": {}
+    "keywords": {}
+  - "name": "biological_samples"
+    "title":
+      "en": "Biosamples"
+      "fr": "Échantillons biologiques"
+    "description": {}
+    "keywords": {}
+  - "name": "administratives_databases"
+    "title":
+      "en": "Administrative Databases"
+      "fr": "Bases de données administratives"
+    "description": {}
+    "keywords": {}
+  - "name": "others"
+    "title":
+      "en": "Others"
+      "fr": "Autres"
+    "description": {}
+    "keywords": {}
+- "name": "access"
+  "title":
+    "en": "Access permitted"
+    "fr": "Accès permis"
+  "description": {}
+  "keywords": {}
+  "terms":
+  - "name": "data"
+    "title":
+      "en": "Data"
+      "fr": "Données"
+    "description": {}
+    "keywords": {}
+  - "name": "bio_samples"
+    "title":
+      "en": "Biosamples"
+      "fr": "Échantillons biologiques"
+    "description": {}
+    "keywords": {}
+  - "name": "other"
+    "title":
+      "en": "Other"
+      "fr": "Autre"
+    "description": {}
+    "keywords": {}
+- "name": "populations-dataCollectionEvents-bioSamples"
+  "title":
+    "en": "Biosamples"
+    "fr": "Échantillons biologiques"
+  "description": {}
+  "keywords": {}
+  "terms":
+  - "name": "blood"
+    "title":
+      "en": "Blood"
+      "fr": "Sang"
+    "description": {}
+    "keywords": {}
+  - "name": "urine"
+    "title":
+      "en": "Urine"
+      "fr": "Urine"
+    "description": {}
+    "keywords": {}
+  - "name": "salivia"
+    "title":
+      "en": "Salivia"
+      "fr": "Salive"
+    "description": {}
+    "keywords": {}
+  - "name": "hair"
+    "title":
+      "en": "Hair"
+      "fr": "Cheveux"
+    "description": {}
+    "keywords": {}
+  - "name": "others"
+    "title":
+      "en": "Others"
+      "fr": "Autres"
+    "description": {}
+    "keywords": {}
+  - "name": "cord_blood"
+    "title":
+      "en": "Cord Blood"
+      "fr": "Sang de cordon"
+    "description": {}
+    "keywords": {}
+  - "name": "tissues"
+    "title":
+      "en": "Tissues"
+      "fr": "Tissus"
+    "description": {}
+    "keywords": {}
+  - "name": "nail"
+    "title":
+      "en": "Nail"
+      "fr": "Ongles"
+    "description": {}
+    "keywords": {}
+  - "name": "buccal_cells"
+    "title":
+      "en": "Buccal Cells"
+      "fr": "Cellules buccales"
+    "description": {}
+    "keywords": {}
