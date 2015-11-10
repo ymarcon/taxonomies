@@ -50,6 +50,31 @@
       "fr": "Autre"
     "description": {}
     "keywords": {}
+- "name": "access"
+  "title":
+    "en": "Access permitted"
+    "fr": "Accès permis"
+  "description": {}
+  "keywords": {}
+  "terms":
+  - "name": "data"
+    "title":
+      "en": "Data"
+      "fr": "Données"
+    "description": {}
+    "keywords": {}
+  - "name": "bio_samples"
+    "title":
+      "en": "Biosamples"
+      "fr": "Échantillons biologiques"
+    "description": {}
+    "keywords": {}
+  - "name": "other"
+    "title":
+      "en": "Other"
+      "fr": "Autre"
+    "description": {}
+    "keywords": {}
 - "name": "methods-recruitments"
   "title":
     "en": "Recruitment target"
@@ -106,7 +131,7 @@
       "fr": "Autre"
     "description": {}
     "keywords": {}
-- "name": "recruitmentGeneralPopulation"
+- "name": "populations-recruitment-generalPopulationSources"
   "title":
     "en": "General recruitment"
     "fr": "Recrutement général"
@@ -119,19 +144,22 @@
       "fr": "Enrôlement volontaire"
     "description": {}
     "keywords": {}
+    "terms": []
   - "name": "selected_samples"
     "title":
       "en": "Selected sample"
       "fr": "Sous-échantillons"
     "description": {}
     "keywords": {}
+    "terms": []
   - "name": "random"
     "title":
       "en": "Random digit dialing"
       "fr": "Génération aléatoire de numéros"
     "description": {}
     "keywords": {}
-- "name": "recruitmentSpecificPopulation"
+    "terms": []
+- "name": "populations-recruitment-specificPopulationSources"
   "title":
     "en": "Specific recruitment"
     "fr": "Recrutement spécifique"
@@ -144,18 +172,28 @@
       "fr": "Patients d'une clinique"
     "description": {}
     "keywords": {}
+    "terms": []
   - "name": "specific_association"
     "title":
       "en": "Members of specific association"
       "fr": "Membres d'une association spécifique"
     "description": {}
     "keywords": {}
+    "terms": []
   - "name": "other"
     "title":
       "en": "Other specific population"
       "fr": "Autre population spécifique"
     "description": {}
     "keywords": {}
+    "terms": []
+- "name": "populations-selectionCriteria-countriesIso"
+  "title":
+    "en": "Country of residence"
+    "fr": "Pays de résidence"
+  "description": {}
+  "keywords": {}
+  "terms": []
 - "name": "populations-selectionCriteria-gender"
   "title":
     "en": "Gender"
@@ -235,31 +273,6 @@
     "title":
       "en": "Others"
       "fr": "Autres"
-    "description": {}
-    "keywords": {}
-- "name": "access"
-  "title":
-    "en": "Access permitted"
-    "fr": "Accès permis"
-  "description": {}
-  "keywords": {}
-  "terms":
-  - "name": "data"
-    "title":
-      "en": "Data"
-      "fr": "Données"
-    "description": {}
-    "keywords": {}
-  - "name": "bio_samples"
-    "title":
-      "en": "Biosamples"
-      "fr": "Échantillons biologiques"
-    "description": {}
-    "keywords": {}
-  - "name": "other"
-    "title":
-      "en": "Other"
-      "fr": "Autre"
     "description": {}
     "keywords": {}
 - "name": "populations-dataCollectionEvents-bioSamples"
